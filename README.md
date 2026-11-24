@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 6 – CHARACTERISTICS OF LVDT
 
-| **Name:** | | **Reg. No.:** | |
+| Name:M.Ganishkar | | Reg. No.:26007045 | |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| Date:24/11/2026 | | Batch / Section:260DJ108 | |
 
 ---
 
@@ -47,7 +47,8 @@ In practice, a small residual voltage is observed at the null position due to ca
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the LVDT construction / circuit diagram here ]*
+<img width="377" height="380" alt="image" src="https://github.com/user-attachments/assets/2278f2ba-75dd-4d91-be38-996599b60d1b" />
+
 
 **Figure 1:** LVDT – construction and circuit diagram
 
@@ -57,49 +58,62 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ### A. Positive displacement of core
 
-*[ Paste the Virtual Lab screenshot – positive displacement ]*
+<img width="468" height="832" alt="image" src="https://github.com/user-attachments/assets/3ced90ed-691f-4930-9c50-da356ee846fb" />
+
+
 
 **Figure 2:** Virtual Lab – positive displacement of core
+<img width="1035" height="360" alt="image" src="https://github.com/user-attachments/assets/757396f0-27be-48a2-89dc-9463d7c10aae" />
+
+
+<img width="1042" height="352" alt="image" src="https://github.com/user-attachments/assets/baa88c36-5fe8-4821-bbe0-af8fb6967a5a" />
 
 ### B. Negative displacement of core
 
-*[ Paste the Virtual Lab screenshot – negative displacement ]*
+<img width="457" height="832" alt="image" src="https://github.com/user-attachments/assets/29d3e108-2bf4-4d8d-9d49-0e4189ffe8dc" />
+
 
 **Figure 3:** Virtual Lab – negative displacement of core
+<img width="1032" height="345" alt="image" src="https://github.com/user-attachments/assets/373a2b3c-a822-4dd4-9a55-9fd74e2c5a50" />
+
+<img width="1040" height="350" alt="image" src="https://github.com/user-attachments/assets/b4a870ce-8d27-407e-982f-6decc1011fdc" />
+
+
 
 ## OBSERVATION TABLE
 
-**Input voltage Vin = ______ V      Frequency f = ______ Hz      Null voltage = ______ V**
+**Input voltage Vin = 7 V      Frequency f = 1000
+Hz      Null voltage = 0 V**
 
 ### A. Positive displacement of core
 
 | S. No. | Displacement x (mm) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | 0.5 | 0.22 |
+| 2 | 1.0 | 0.44 |
+| 3 | 1.5 | 0.66 |
+| 4 | 2.0 | 0.88 |
+| 5 | 2.5 | 1.10 |
+| 6 | 3.0 | 1.32 |
+| 7 | 3.5 | 1.54 |
+| 8 | 4.0 | 1.76 |
+| 9 | 4.5 | 1.98 |
+| 10 | 5.0 | 2.20 |
 
 ### B. Negative displacement of core
 
 | S. No. | Displacement x (mm) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | -o.5 | -0.22 |
+| 2 | -1.0 | -0.44 |
+| 3 | -1.5 | -0.66 |
+| 4 | -2.0 | -0.88 |
+| 5 | -2.5 | -1.10 |
+| 6 | -3.0 | -1.32 |
+| 7 | -3.5 | -1.54 |
+| 8 | -4.0 | -1.76 |
+| 9 | -4.5 | -1.98 |
+| 10 | -5.0 | -2.20 |
 
 ## FORMULA
 
