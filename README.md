@@ -125,7 +125,10 @@ Hz      Null voltage = 0 V**
 
 ### Displacement vs output voltage (positive and negative directions)
 
-*[ Paste / draw the displacement vs output voltage graph here ]*
+<img width="460" height="472" alt="image" src="https://github.com/user-attachments/assets/fe509b8a-2f63-437e-a792-32041b34b226" />
+
+<img width="437" height="391" alt="image" src="https://github.com/user-attachments/assets/3d8a03a6-0d6f-4129-aa55-cc9883d0e651" />
+
 
 **Figure 4:** LVDT characteristics
 
